@@ -153,7 +153,3 @@ project/
 
 ---
 
-## License
-
-Academic project — AICTE | IBM SkillsBuild Data Analytics with AI Internship, 2026.
-
